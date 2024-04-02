@@ -16,7 +16,7 @@ timezone:
 
 title: cha0s # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: Just another hacking blog # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
    CTF Writeups and some more computer stuff :0
@@ -75,7 +75,7 @@ theme_mode: "dark" # [light | dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: ""
+avatar: "https://avatars.githubusercontent.com/u/64480742?v=4"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
