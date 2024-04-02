@@ -16,7 +16,9 @@ timezone:
 
 title: cha0s # the main title
 
-tagline: Just another hacking blog # it will display as the sub-title
+tagline: >- # it will display as the sub-title
+  CTF Writeups and some more computer stuff :0
+  https://app.hackthebox.com/profile/303213 
 
 description: >- # used by seo meta and the atom feed
    CTF Writeups and some more computer stuff :0
@@ -125,7 +127,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: ""
+baseurl: "https://imnotcha0s.github.io/"
 
 # ------------ The following options are not recommended to be modified ------------------
 
