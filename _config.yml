@@ -16,9 +16,7 @@ timezone:
 
 title: cha0s # the main title
 
-tagline: >- # it will display as the sub-title
-  CTF Writeups and some more computer stuff :0
-  https://app.hackthebox.com/profile/303213 
+tagline: CTF Writeups and some more computer stuff :0
 
 description: >- # used by seo meta and the atom feed
    CTF Writeups and some more computer stuff :0
